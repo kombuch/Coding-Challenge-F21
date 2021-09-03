@@ -12,6 +12,3 @@ This fits with what I expected as the majority of the text seemed to be positive
 
 My solution also produced a subjectivity score of about .5954 which of the range [0.0, 1;0] where 0 is very objective and 1 is very subjective.
 Meaning the text was determined to be relatively subjective, which lines up with what I'd expect from reading it.
-
-
-## END README
